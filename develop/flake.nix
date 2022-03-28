@@ -11,6 +11,7 @@
   inputs.src-discord-develop.ref   = "refs/heads/develop";
   inputs.src-discord-develop.owner = "Krognol";
   inputs.src-discord-develop.repo  = "discordnim";
+  inputs.src-discord-develop.dir   = "";
   inputs.src-discord-develop.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
